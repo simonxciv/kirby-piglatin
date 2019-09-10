@@ -12,7 +12,7 @@ To install this plugin, simply download the `index.php` file, and place it in a 
 
 Then, from your templates, call it using `<?= $page->fieldName()->toPiglatin()`.
 
-## Known issues
+## Known issues!
 
 1. This plugin doesn't work well, and I don't know if I can be bothered to make it work well :D
 2. Currently, trying to parse Kirbytext doesn't work. I'd like it to.
