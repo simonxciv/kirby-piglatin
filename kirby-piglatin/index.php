@@ -121,5 +121,3 @@ Kirby::plugin('simonxciv/kirby-pigtext', [
 		}
 	]
 ]);
-
-?>
