@@ -2,7 +2,7 @@
 
 <p align="center">🐽🐽🐽🐽</p>
 
-Have you ever wished you could easily convert your website's text to pig latin? Have you looked far and wide for the perfect [Kirby CMS](https://getkirby.com/) plugin to do this exact thing for you? Are you a masochist who enjoys installing terrible, hacky, ugly plugins that are almost certain to break everything? Well today's your lucky day!
+Have you ever wished you could easily convert your website's text to pig latin? Have you looked far and wide for the perfect [Kirby CMS](https://getkirby.com/) plugin to do this exact thing for you? Are you a masochist who enjoys installing terrible, hacky, ugly plugins that are almost certain to destroy everything you love? Well today's your lucky day!
 
 <p align="center">🐽🐽🐽🐽</p>
 
