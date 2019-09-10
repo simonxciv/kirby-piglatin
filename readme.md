@@ -12,7 +12,7 @@ Built with terrible PHP for Kirby 3, this gross and unsightly plugin will provid
 
 ## Get started now!
 
-To install this plugin, simply download the `index.php` file, and place it in a directory named `kirby-piglatin` in your sites `site/plugins` folder.
+To install this plugin, simply download the `index.php` file, and place it in a directory named `kirby-piglatin` in your site's `site/plugins` folder.
 
 Then, from your templates, call it using `<?= $page->fieldName()->toPiglatin()`.
 
